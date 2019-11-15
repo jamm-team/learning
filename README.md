@@ -2,6 +2,11 @@
 Ниже представлены материалы рекомендуемые к изучению по технологиям, которые используются у нас в компании.
 
 ## Backend & DevOps
+### Yii 2
+- [Документация](https://yiiframework.com.ua/ru/doc/guide/2/)
+- [Видео-курс](https://www.youtube.com/watch?v=B1Q44OKh5YA&list=PLSdH7dYnlGYht0eGi9-14X87hrSl9plCc)
+
+
 ### PostgreSQL
 - [Документация](https://postgrespro.ru/docs)
 - [Администрирование PostgreSQL 10 DBA1](https://www.youtube.com/watch?v=mXA861YV7Us&list=PLaFqU3KCWw6JhHBp07QSu9uE8zahhKnTn)

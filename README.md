@@ -54,7 +54,7 @@
 ## Frontend
 
 ### Angular
-- [Документация](https://angular.io/docs)
+- [Документация](https://angular.io/docs) ([RU](https://metanit.com/web/angular2/1.1.php))
 - [Знакомство с Angular 2](https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp)
 - [Скринкаст по Angular](https://www.youtube.com/watch?v=Gl4IT4JpP4o&list=PLDyvV36pndZF-vwsVB48ivZyNJ4ETBKNY)
 - [State managers в Angular: NGRX, NGXS, Akita](https://www.youtube.com/watch?v=sxN5hmb2hdU)

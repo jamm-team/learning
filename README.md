@@ -20,17 +20,36 @@
 - [Эффективное использование ClickHouse / Алексей Миловидов (Яндекс)](https://www.youtube.com/watch?v=Ac2C2G2g8Cg)
 - [Что нужно знать об архитектуре ClickHouse / Алексей Зателепин (Яндекс)](https://www.youtube.com/watch?v=PLMSA_gDdyM)
 
-### Ceph
-- [Введение в Ceph](https://www.youtube.com/watch?v=V6xYnuK-7PU&list=PLaFqU3KCWw6KEakTSrRWrekNI-z9U1ypF)
+### DevOps / SRE
 
-### Kubernetes
+#### Общая информация
+##### Подкасты про SRE
+- [Podlodka #138 — SRE](http://podlodka.io/138)
+- [DevZen — Очень Надежный Выпуск — Episode 0239](https://devzen.ru/episode-0239/)
+- [DevZen — SRE crash course — Episode 0242](https://devzen.ru/episode-0242/)
+
+##### Тестирование на проде
+Подкасты:
+- [DevZen — Тестирование на проде — Episode 0265](https://devzen.ru/episode-0265/)
+- [DevZen — Самый главный главнюк по главной главности — episode-0267](https://devzen.ru/episode-0267/)
+
+Статьи:
+- [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef10)
+- [Testing in production: hard part](https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592)
+
+
+#### Kubernetes
 - [Документация](https://kubernetes.io/docs/home/)
 - [Введение в Kubernetes ITSumma](https://www.youtube.com/watch?v=Qmac8MNlhmg&list=PLVSuF-7tjVUgPSW-YAhrGjnShRsW9gA7_)
 - [Kubernetes в небольших проектах (Flant)](https://www.youtube.com/watch?v=CgCLPYJRxbU)
+- 
+#### Ceph
+- [Введение в Ceph](https://www.youtube.com/watch?v=V6xYnuK-7PU&list=PLaFqU3KCWw6KEakTSrRWrekNI-z9U1ypF)
 
-### Werf
+#### Werf
 - [Документация](https://werf.io/documentation/)
 - [werf — наш инструмент для CI/CD в Kubernetes (Flant)](https://www.youtube.com/watch?v=cK3ackGUTLw)
+
 
 ## Frontend
 

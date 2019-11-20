@@ -3,7 +3,7 @@
 
 ## Backend & DevOps
 ### Yii 2
-- [Документация](https://yiiframework.com.ua/ru/doc/guide/2/)
+- [Документация](https://yiiframework.com.ua/ru/doc/guide/2/) ([официальная](https://github.com/yiisoft/yii2/blob/master/docs/guide-ru/README.md))
 - [Видео-курс](https://www.youtube.com/watch?v=B1Q44OKh5YA&list=PLSdH7dYnlGYht0eGi9-14X87hrSl9plCc)
 
 

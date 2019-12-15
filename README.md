@@ -3,8 +3,19 @@
 
 ## Backend & DevOps
 ### Yii 2
-- [Документация](https://yiiframework.com.ua/ru/doc/guide/2/) ([официальная](https://github.com/yiisoft/yii2/blob/master/docs/guide-ru/README.md))
+- [Документация официальная](https://github.com/yiisoft/yii2/blob/master/docs/guide-ru/README.md)
+- [Документация на русском языке](https://yiiframework.com.ua/ru/doc/guide/2/)
 - [Видео-курс](https://www.youtube.com/watch?v=B1Q44OKh5YA&list=PLSdH7dYnlGYht0eGi9-14X87hrSl9plCc)
+
+### Тестирование
+Фреймворк для тестирования покрывает три вида тестирования:
+- [Unit](https://codeception.com/docs/05-UnitTests)
+- [Functional](https://codeception.com/docs/04-FunctionalTests)
+- [Acceptance](https://codeception.com/docs/03-AcceptanceTests)
+
+Codeception создан поверх [PHPUnit](https://phpunit.de/). 
+Изучение Codeception стоит начать с:
+- [Документация по Codeception](https://codeception.com/docs/01-Introduction)
 
 
 ### PostgreSQL
